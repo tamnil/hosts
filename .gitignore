@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 data/Badd-Boyz-Hosts/hosts
 data/KADhosts/hosts
 data/StevenBlack/hosts
@@ -22,6 +23,11 @@ readmeData.json
 # blacklist
 # whitelist
 personal
+=======
+myhosts
+blacklist
+whitelist
+>>>>>>> parent of 4b8fcb4... crypt
 readmeData.json
 hosts-*
 /web.config
