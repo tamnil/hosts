@@ -1,6 +1,7 @@
-myhosts
-blacklist
-whitelist
+# myhosts
+# blacklist
+# whitelist
+personal
 readmeData.json
 hosts-*
 /web.config
