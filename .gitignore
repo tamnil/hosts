@@ -1,3 +1,23 @@
+data/Badd-Boyz-Hosts/hosts
+data/KADhosts/hosts
+data/StevenBlack/hosts
+data/UncheckyAds/hosts
+data/add.2o7Net/hosts
+data/add.Dead/hosts
+data/add.Risk/hosts
+data/add.Spam/hosts
+data/malwaredomainlist.com/hosts
+data/mvps.org/hosts
+data/someonewhocares.org/hosts
+data/yoyo.org/hosts
+extensions/fakenews/hosts
+extensions/gambling/hosts
+extensions/porn/clefspeare13/hosts
+extensions/porn/sinfonietta/hosts
+extensions/social/hosts
+hosts
+readmeData.json
+
 # myhosts
 # blacklist
 # whitelist
